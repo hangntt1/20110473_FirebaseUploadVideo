@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "264778456064",
+    "project_id": "fir-uploadvideo-8c899",
+    "storage_bucket": "fir-uploadvideo-8c899.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264778456064:android:5c9bca32e2452f8219cce5",
+        "android_client_info": {
+          "package_name": "hcmute.edu.vn.a20110473_firebaseuploadvideo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "264778456064-nme546q6g9prpfq0ai0a1lf7fhm12im0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhmBSfQadpJCoS0HpNj1TKA0DlERqcVeI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "264778456064-nme546q6g9prpfq0ai0a1lf7fhm12im0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
